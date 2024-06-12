@@ -1,0 +1,48 @@
+1.What is DevOps?  
+Ans:Devops is a process of improving the application delivery by ensuring automation,quality,continuous monitoring and testing.
+
+2.Why DevOps?
+Ans:In the past Decade to deploy a code from Devpolment to production includes System Admin(to build a server like VMware,openstack),Server Admin(Create an application server) and Build&release engineer(to deploy application on server)
+While using DevOps we can deploy with less complexity.
+
+3.What is SDLC?
+Ans:the cost-effective and time-efficient process that development teams use to design and build high-quality software.
+It has plan,define,design,build,test,deploy phases.
+As as DevOps engineer focus should be on Build (code and push to git),Test (quality engineer test the code on the server),Deploy(deploying on the server).
+
+4.What is server?
+Ans:A server is a computer program or device that provides a service to another computer program and its user
+
+5.Physical server and virtual server?
+Ans:a physical server is a machine with a hard drive, CPU, processor, memory, and network connection to run programs and applications.
+A virtual server is a software-based server that allows multiple virtual machines (VMs) to run simultaneously as computing resources are virtualized.
+
+6.What is Hypervisor?
+Ans: Hypervisor, also known as a virtual machine monitor, is a process that creates and runs virtual machines (VMs).
+
+7.When you use terform --In hyrid cloud
+  AWS CLI,API,CFT      --In single cloud platform
+
+8.How to SSH in ubuntu:
+  ssh ubuntu@ipadd
+  ssh -i path ubuntu@ipadd
+  chmod 600 pathtokeypair
+
+9.AWS CLI:download
+  aws configure-provide the secret id and access key,default region
+
+10.What is OS?
+Ans:Cascading medium between hardware and software.
+
+11.Why linux not windows?
+Ans:Free,open source,secure,Different distribution(ubuntu),Fast.
+
+12.what is kernel?
+Ans:It is heart of OS does device management
+                          memory management
+                          Process management
+                          System handling
+
+13.what is shell scripting?
+Ans:Shell scripting is a text file with a list of commands to perform certain tasks.
+
