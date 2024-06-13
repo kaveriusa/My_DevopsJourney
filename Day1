@@ -46,3 +46,51 @@ Ans:It is heart of OS does device management
 13.what is shell scripting?
 Ans:Shell scripting is a text file with a list of commands to perform certain tasks.
 
+14.what are bash,sh,ksh,dash?
+Ans:previous dash and bash are linked together now some os are using bash as default
+
+15. ./filename-open a file
+
+16.List some of the commonly used shell commands ?
+Ans: ls,mv,rm,touch,cat,vi,grep,mkdir,find,top,df,free
+
+17.Write a simple shell script to list all process?
+Ans:ps -ef | awk -F" "'{print &1}'  #F is feild seperator
+
+18.Write a script to print only errors from a remote log?
+Ans:curl website | grep error
+
+19.Write a script to print number of "S" in Mississippi?
+Ans: x=mississipi
+     grep -o "s" << "$x" | wc -l  #wordcount
+
+20. How will you debug the shell script?
+Ans:set -x
+
+21.What is crontab in Linux? Can you provide an example of usage?
+Ans:Used to automate a daily task
+
+22.How to open a read-only file?
+Ans:vim -r file.txt
+
+23.What is a difference between soft and hard link?
+Ans:A symbolic or soft link is an actual link to the original file, whereas a hard link is a mirror copy of the original file.
+
+24.What are some disadvantages of Shell scripting?
+Ans:Execution speed is slow
+    Errors are frequent and costly
+    Not suited for the complex task
+    Process is launched each time you execute.
+
+25. Explain about a network troubleshooting utility?
+Ans:Traeroute
+
+26.How will you manage logs of a system that generate huge log files everyday?
+Ans:logrotate
+
+27.How will you sort list on names in a file ?
+Ans:sort
+
+
+
+
