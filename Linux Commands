@@ -1,0 +1,33 @@
+ls-list of files
+pwd-print current working dir
+cd-change dir
+cd .. -->previous dir
+cd ../.. -->to go home
+ls -ltr --> info abt owner permissions,directory or file
+vi      --->create and edit file
+touch   -->create file
+cat     --->display output
+rm      --->remove
+mkdir   --->make dir
+nproc   --->n.o of process running
+free -g --->memory of system
+df -h   --->disk size
+top     --->info abt memory,cpu and disk
+man cmd --->manual
+She bang #!/bin/bash
+ ./filename.sh- to excute bash file
+chmod   --> user,group,other ,rwe
+top    --> info abt cpu,memory (node status)
+set -x  -->debug mode
+set -e  -->exit the script when there is an error,check only last 
+set -o  -->pipefail
+ps -ef | grep amazon | awk -F" " '{print $2}'-->process details,finding amazon
+awk    -->pattern scanning & processing 
+cat logfile
+curl   -->retrive the output
+wget   -->download software
+sudo su - -->root user
+sudo username -->change to user
+find   -->path of the file
+kill -9 1111
+trap
