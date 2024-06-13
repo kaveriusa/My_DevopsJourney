@@ -1,0 +1,19 @@
+1.Version Control-CVS,SVN,GT
+Central:SVN/CVSConsider to 2 servers: all the changes in 2 servers are send to the central system.
+No communication betwwen 2 servers,single point of copy
+
+2.Distributed system has entire copy of original file -fork
+
+3.Differnce between git and github?
+Git                                          GitHub
+Open source-Download and implement          usuablity-(issues commenting reviewing project management)
+
+ls .git has head,config,hocks,objects,refs
+config -secrets
+
+#git commands
+git init
+git add
+git commit -m
+git status
+git push
