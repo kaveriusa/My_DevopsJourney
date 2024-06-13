@@ -1,0 +1,17 @@
+Must learn AWS services to be a DevOps Engineer:
+EC2
+S3
+IAM
+Cloudwatch
+EBS
+Lambda
+ElasticSearch
+Cloudwatch
+CloudTrail
+EKS
+ECS,Fargate
+KMS
+VPC
+Cloud build-code build,deploy,code pipeline
+AWS config
+Billing&costing
