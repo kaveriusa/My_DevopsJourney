@@ -1,0 +1,9 @@
+Steps the organisation follows to deliver the application:
+Unit testing              -giving the test cases to test the function
+Static Code Analysis      -checking format,idendation,unnecessary variables
+Code Quality/Vulnerability
+Automation                
+Reports
+Depolyment
+
+Jenkins take care of depolying in multiple stages-dev,stage and prod
